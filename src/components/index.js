@@ -8,6 +8,11 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
+import Cards from "./Cards";
+import Exchange from "./Exchange";
+import Swap from "./Swap";
+import Trade from "./Trade";
+import Navbar2 from "./Navbar2";
 
 export {
   Navbar,
@@ -20,4 +25,9 @@ export {
   Footer,
   Testimonials,
   Hero,
+  Cards,
+  Exchange,
+  Swap,
+  Trade,
+  Navbar2,
 };
